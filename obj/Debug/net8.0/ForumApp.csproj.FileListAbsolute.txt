@@ -1,0 +1,14 @@
+C:\Users\oskar\source\repos\ForumApp\ForumApp\bin\Debug\net8.0\ForumApp.exe
+C:\Users\oskar\source\repos\ForumApp\ForumApp\bin\Debug\net8.0\ForumApp.deps.json
+C:\Users\oskar\source\repos\ForumApp\ForumApp\bin\Debug\net8.0\ForumApp.runtimeconfig.json
+C:\Users\oskar\source\repos\ForumApp\ForumApp\bin\Debug\net8.0\ForumApp.dll
+C:\Users\oskar\source\repos\ForumApp\ForumApp\bin\Debug\net8.0\ForumApp.pdb
+C:\Users\oskar\source\repos\ForumApp\ForumApp\obj\Debug\net8.0\ForumApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oskar\source\repos\ForumApp\ForumApp\obj\Debug\net8.0\ForumApp.AssemblyInfoInputs.cache
+C:\Users\oskar\source\repos\ForumApp\ForumApp\obj\Debug\net8.0\ForumApp.AssemblyInfo.cs
+C:\Users\oskar\source\repos\ForumApp\ForumApp\obj\Debug\net8.0\ForumApp.csproj.CoreCompileInputs.cache
+C:\Users\oskar\source\repos\ForumApp\ForumApp\obj\Debug\net8.0\ForumApp.dll
+C:\Users\oskar\source\repos\ForumApp\ForumApp\obj\Debug\net8.0\refint\ForumApp.dll
+C:\Users\oskar\source\repos\ForumApp\ForumApp\obj\Debug\net8.0\ForumApp.pdb
+C:\Users\oskar\source\repos\ForumApp\ForumApp\obj\Debug\net8.0\ForumApp.genruntimeconfig.cache
+C:\Users\oskar\source\repos\ForumApp\ForumApp\obj\Debug\net8.0\ref\ForumApp.dll
